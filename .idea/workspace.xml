@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab9f2501-b610-4b54-90be-d2ef052bc4b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1l99vOWPYNJv8myZialrpVQfgcV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fashion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\internet shop\style" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\internet shop\image" />
+      <recent name="C:\Users\user\Desktop\internet shop\script" />
+      <recent name="C:\Users\user\Desktop\internet shop\fonts\font" />
+      <recent name="C:\Users\user\Desktop\internet shop\style" />
+      <recent name="C:\Users\user\Desktop\internet shop\image\review" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab9f2501-b610-4b54-90be-d2ef052bc4b1" name="Default Changelist" comment="" />
+      <created>1606998669896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606998669896</updated>
+      <workItem from="1606998671538" duration="4560000" />
+      <workItem from="1607006878411" duration="17186000" />
+      <workItem from="1607080000343" duration="145000" />
+      <workItem from="1607140835692" duration="16635000" />
+      <workItem from="1607169831310" duration="6503000" />
+      <workItem from="1607342339818" duration="598000" />
+      <workItem from="1607428803243" duration="6985000" />
+      <workItem from="1607442223296" duration="6474000" />
+      <workItem from="1607504741315" duration="8225000" />
+      <workItem from="1607528150153" duration="4323000" />
+      <workItem from="1607572889711" duration="9341000" />
+      <workItem from="1607601701439" duration="5937000" />
+      <workItem from="1607667646413" duration="6263000" />
+      <workItem from="1607747083857" duration="7449000" />
+      <workItem from="1607774821930" duration="3653000" />
+      <workItem from="1607932698890" duration="20162000" />
+      <workItem from="1608013089174" duration="1466000" />
+      <workItem from="1608033795394" duration="3423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1607945009499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1607945009499" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607577966741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607577966741" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607955738162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607955738162" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608036907921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608036907921" />
+  </component>
+</project>
