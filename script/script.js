@@ -36,6 +36,9 @@ $(document).ready(function(){
         const modal = ['.overlay','#order', '#thanks', '#consultation'];
         modal.map(el => document.querySelector(el).style.display='none')
     }));
+    document.querySelectorAll('button[data-modal=form]').forEach(el=>el.addEventListener('click',() =>{
+        document.querySelectorAll('.overlay, #thanks').forEach(el=>el.style.display='block')
+    }));
     document.querySelectorAll('.catalog-btn__buy').forEach(el=>el.addEventListener( 'click',()=>{
         document.querySelectorAll('.overlay, #order').forEach(el=>el.style.display='block')
     }));
